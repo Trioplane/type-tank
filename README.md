@@ -39,6 +39,7 @@ exports.basic = {
 ```
 
 ## What it should look like if you followed this tutorial correctly:
+
 ![image](https://github.com/Trioplane/type-tank/assets/87922281/99984ccb-c7cc-4f6f-a200-e0646e6f7ae7)
 Or if you did the alternative one
 ![image](https://github.com/Trioplane/type-tank/assets/87922281/2ab30766-897f-4934-b4ba-41fccf95efe1)
